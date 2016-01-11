@@ -1,0 +1,7 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+  author = "James Skemp"
+  dateForm = "Mon, Jan 2, 2006"
