@@ -4,4 +4,4 @@ title = "My New Hugo Site"
 
 [params]
   author = "James Skemp"
-  dateForm = "Mon, Jan 2, 2006"
+  DateForm = "2006-01-02T15:04:05-06:00"
